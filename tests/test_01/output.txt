@@ -1,3 +1,1 @@
-Integer value: 10
-Double value: 3.14
-String value: Hello!
+Enter an integer: 5 is an Odd number.
