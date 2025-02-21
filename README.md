@@ -95,7 +95,7 @@ Only perform this if this is the first time you will setup your Git Environment
    24 is an Even number.
    ```
 
-   **Notable Observations (to be discussed after completing the exercise):**
+   **Notable Observations:**
    - This activity emphasizes the separation of concerns by using different methods for input and logic.
    - Using methods makes your code more modular and easier to test and debug.
 
