@@ -130,11 +130,11 @@ Only perform this if this is the first time you will setup your Git Environment
    **Conclusion**
 
    By completing this coding challenge, you will gain experience in:
-      - Designing and implementing methods in Java.
-      - Using the modulo operator for calculations.
-      - Handling user input.
-      - Creating formatted output messages.
-      - Following Java programming best practices for clean and maintainable code.
+   - Designing and implementing methods in Java.
+   - Using the modulo operator for calculations.
+   - Handling user input.
+   - Creating formatted output messages.
+   - Following Java programming best practices for clean and maintainable code.
 
 ### **Step 4: Push Changes to GitHub**
 Once you've completed your changes, follow these steps to upload your work to your GitHub repository.
